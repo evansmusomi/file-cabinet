@@ -27,7 +27,7 @@ Each feature manipulates or displays information related to documents.
 
 ## Demo
 
-_Coming Soon..._
+[![Watch the Demo Video](https://github.com/evansmusomi/file-cabinet/blob/master/public/demo-video-preview.png)](https://www.useloom.com/share/a7242bf3c8b64bfaa95a386c5e4ae500)
 
 ## Credit(s)
 
